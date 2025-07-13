@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+/* Hero section custom styles */
+.hero-section {
+  padding: 4rem 1rem 3rem; /* Top, sides, bottom */
+  text-align: center;
+}
+
+.hero-section h1 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.hero-section .subtitle {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+  color: #666;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-section .globe-icon {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  animation: spinY 5s linear infinite;
+  display: inline-block;
+  font-size: 2.5rem;
+}
+
+.brand {
+  margin-bottom: 1.5rem; /* Adds space below the logos before the emoji/title */
+}
+
+@keyframes spinY {
+  0% { transform: rotateY(0deg); }
+  100% { transform: rotateY(360deg); }
+} 
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fade-in {
+  animation: fade-in 1.5s ease-in;
+} 
