@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/netsurit-southbnd/static/css/main.0862b39d.css",
-    "main.js": "/netsurit-southbnd/static/js/main.b63ece3e.js",
+    "main.js": "/netsurit-southbnd/static/js/main.b58eb613.js",
     "index.html": "/netsurit-southbnd/index.html",
     "main.0862b39d.css.map": "/netsurit-southbnd/static/css/main.0862b39d.css.map",
-    "main.b63ece3e.js.map": "/netsurit-southbnd/static/js/main.b63ece3e.js.map"
+    "main.b58eb613.js.map": "/netsurit-southbnd/static/js/main.b58eb613.js.map"
   },
   "entrypoints": [
     "static/css/main.0862b39d.css",
-    "static/js/main.b63ece3e.js"
+    "static/js/main.b58eb613.js"
   ]
 }
