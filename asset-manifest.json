@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netsurit-southbnd/static/css/main.0862b39d.css",
+    "main.js": "/netsurit-southbnd/static/js/main.74d6edd0.js",
+    "index.html": "/netsurit-southbnd/index.html",
+    "main.0862b39d.css.map": "/netsurit-southbnd/static/css/main.0862b39d.css.map",
+    "main.74d6edd0.js.map": "/netsurit-southbnd/static/js/main.74d6edd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0862b39d.css",
+    "static/js/main.74d6edd0.js"
+  ]
+}
